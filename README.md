@@ -5,7 +5,7 @@ Team ID - PNT2022TMID48497
 
 Team Members
 
-Emilin Peral Sharal D - Team Leader
+Emilin Pearl Sharal D - Team Leader
 
 Gayathri S - Team Member 1
 
