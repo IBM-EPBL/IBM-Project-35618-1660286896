@@ -4,8 +4,13 @@ PROJECT - PERSONAL EXPENSE TRACKER APPLICATION
 Team ID - PNT2022TMID48497
 
 Team Members
+
 Emilin Peral Sharal D - Team Leader
+
 Gayathri S - Team Member 1
+
 Mathumitha T - Team Member 2
+
 Sharmila N - Team Member 3
+
 Manisha G - Team Member 4
